@@ -11,12 +11,12 @@
 
 	<div id="iframes" style="float:left;">
 	
-		<iframe id="slide_show_sites" src="slideshow.html" width="700" height="520"></iframe>	
+		<iframe id="slide_show_sites" src="slideshow.html" width="700" height="520" frameborder="0"></iframe>	
 		</div>
 		
 		
 		<div id="ttweets">
-		<iframe id="slide_show_sites" src="twitter.html" width="300" height="520"></iframe>	
+		<iframe id="slide_show_sites" src="twitter.html" width="400" height="520" frameborder="0"></iframe>	
 		</div>
 		
 	</div>
